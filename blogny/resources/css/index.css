@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  li {
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+  }
+  nav {
+    background-image: url("../imagens/ny-2.jpeg");
+  }
+  ol {
+    background-color:lightcoral;
+  }
+   
